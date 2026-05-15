@@ -13,8 +13,6 @@ export const education = {
     { semester: "Sem 5", gpa: 3.66 },
   ],
   achievements: [
-    "Dean's List — Semester 3 & 4",
-    "Best Final Project — Data Mining Course",
-    "Scholarship Recipient 2023",
+    "Jenius Jabar Scholarship Recipient (West Java Provincial Government)",
   ],
 }

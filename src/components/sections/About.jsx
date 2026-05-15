@@ -5,8 +5,8 @@ import { HiDownload } from "react-icons/hi";
 
 const stats = [
   { value: "10+", label: "Projects Built" },
-  { value: "3.87", label: "Current GPA" },
-  { value: "2+", label: "Years Coding" },
+  { value: "3.69", label: "Current GPA" },
+  { value: "5+", label: "Years Coding" },
   { value: "2", label: "Domains: Web & ML" },
 ];
 
@@ -73,7 +73,7 @@ export default function About() {
               </a>
 
               <a
-                href="https://github.com/"
+                href="https://github.com/amamat20"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 border border-[#1A1A1A] text-[#F5F5F5] px-5 py-3 rounded-md hover:border-[#39FF14] hover:text-[#39FF14] transition-all duration-200"

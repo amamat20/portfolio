@@ -8,20 +8,21 @@ const contactLinks = [
   {
     icon: <HiMail className="text-xl" />,
     label: "Email",
-    value: "bayu@email.com",
-    href: "mailto:bayu@email.com",
+    value: "bayu000111222@email.com",
+    href: "mailto:bayu000111222@email.com",
   },
   {
     icon: <FaGithub className="text-xl" />,
     label: "GitHub",
-    value: "github.com/bayu",
-    href: "https://github.com/",
+    value: "github.com/amamat20",
+    href: "https://github.com/amamat20",
   },
   {
     icon: <FaLinkedin className="text-xl" />,
     label: "LinkedIn",
-    value: "linkedin.com/in/bayu",
-    href: "https://linkedin.com/",
+    value: "linkedin.com/in/bayu-putra-pamungkas",
+    href: "www.linkedin.com/in/bayu-putra-pamungkas",
+
   },
   {
     icon: <HiLocationMarker className="text-xl" />,
